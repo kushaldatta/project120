@@ -1,0 +1,25 @@
+.test_image_and_result {
+    background-color: grey;
+    border-radius: 20px;
+    width: 350;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header_div {
+    font-family: monospace;
+    letter-spacing: 1.5px;
+    color: red;
+}
+
+.copy_right_footer {
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 22px;
+    color: rgb(58, 155, 95);
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(150, 141, 141);
+}
